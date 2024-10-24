@@ -1,4 +1,31 @@
 .master{
-    background-color: red;
-    top: 0;
+    background-color: #FF0A0A;
+    height: 5em;
+    color: white;
+   
+}
+
+.master h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    margin: 2em;
+}
+
+.navbar{
+    background-color: #FF0A0A;
+}
+
+.reserva {
+    margin: 0;
+    flex-grow: 1; 
+    text-align: center;
+    color: white;
+}
+
+.reserva h1{
+    font-weight: 700;
+}
+
+.input{
+    margin: 3em;
 }
